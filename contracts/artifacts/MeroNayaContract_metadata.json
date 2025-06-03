@@ -1,0 +1,77 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "get",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "nayaContract",
+						"type": "string"
+					}
+				],
+				"name": "set",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/MeroContract.sol": "MeroNayaContract"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/MeroContract.sol": {
+			"keccak256": "0x51cb25d5a27e5ab869234a028e1aa89de526bdb2c0f698c86e25aae1996857ad",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://1d00f5b76f0fe4475c155bce96787310536267bdfb3e5e7ad7ff7c40855edafe",
+				"dweb:/ipfs/QmPsUZE85GapcbQ3GaR5uQqyQVALTWtzVLH2udQZ7cbDX9"
+			]
+		}
+	},
+	"version": 1
+}
