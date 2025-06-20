@@ -276,11 +276,11 @@
 	},
 	"sources": {
 		"contracts/votervoter.sol": {
-			"keccak256": "0x8d18e74887fea520551f9f41af2f91e6a0f24cee3b9e7717a17ad60d18cd9c2d",
+			"keccak256": "0x6fc45d593891af707ec233e6afa85230ec0e9f9b0bcb00cf3a07d924753565d7",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://9b3ee9ce58575cd7fc601a745bda2d9e7120ec30f7de5d3b0b976d89ef3ebb9d",
-				"dweb:/ipfs/QmRTapKfi49RvBLQtuLR8gmbE7S5TLUaWuJwCPTJoq3kMN"
+				"bzz-raw://f2b0d36595c514847ef91a4f99c3ac002e0aa5b9592d269eb3eb4111445d5bfe",
+				"dweb:/ipfs/QmW9TBF5U7jx4vefKACoe7BCXaBAy7jonRq3az8gjKwV6i"
 			]
 		}
 	},
